@@ -1,5 +1,4 @@
-package Test;
-
+package test;
 import Data.DataHelper;
 import Pages.CardTopUpPage;
 import Pages.DashboardPage;
